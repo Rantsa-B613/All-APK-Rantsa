@@ -1,4 +1,4 @@
-# all-apk 📱🚀
+# Mobile Applicaiton Collecition📱🚀
 
 Welcome to my collection of APKs! 🎉 This repository contains all the Mobile applications I’ve developed. Feel free to download and test them! 😎
 
